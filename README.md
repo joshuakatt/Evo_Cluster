@@ -9,6 +9,10 @@ and distances between cluster centroids.
 
 Particularly useful when dealing with a dataset with a large number of features, eg: 50+
 
+TODOs: 
+- I still have to create sufficient unit test files.
+- Modify centroid distances to scale with number of clusters to allow for practical population fitness evaluation.
+ 
 ## Features
 
 - **Feature Selection**: Dynamically selects the optimal set of features for clustering.
