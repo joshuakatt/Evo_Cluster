@@ -50,7 +50,9 @@ You can even spcify special rules if many features represent correlated data, fo
 
 ## Modules
 core.py: Contains the EvoCluster class which is the main interface for clustering.
+<br>
 algo.py: Implements the evolutionary algorithm, fitness calculations, and genetic operators.
+<br>
 cluster.py: Provides functionality to perform clustering and compute metrics.
 
 ## Contributing
