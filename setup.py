@@ -11,10 +11,10 @@ setup(
     description='Evolutionary clustering algorithm package',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    author='Your Name',
+    author='Joshua Kattapuram',
     author_email='joshuakattapuram10@gmail.com',
-    url='https://github.com/joshkatt/EvoCluster',
-    download_url='https://github.com/yourusername/EvoCluster/1.0',
+    url='https://github.com/joshkatt/Evo_Cluster',
+    download_url='https://github.com/joshkatt/Evo_Cluster/1.0',
     packages=find_packages(),
     install_requires=[
         'numpy',
@@ -23,7 +23,7 @@ setup(
         'scipy'
     ],
     classifiers=[
-        'Development Status :: 3 - Alpha',
+        'Development Status :: 3 - Beta',
         'Intended Audience :: Developers',
         'Topic :: Software Development :: Build Tools',
         'License :: OSI Approved :: MIT License',
